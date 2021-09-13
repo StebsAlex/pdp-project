@@ -1,0 +1,12 @@
+.box {
+  box-sizing: border-box;
+  margin: 1rem;
+  border: 1px solid black;
+  border-radius: 4px;
+  box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.1);
+  justify-content: space-evenly;
+
+}
+.flex {
+  display: flex;
+}

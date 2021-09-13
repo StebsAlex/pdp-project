@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Channels component it renders title and Channel components 1`] = `
+<div
+  className="row"
+>
+  <h5>
+    News
+     Channel
+  </h5>
+  <ul>
+    <Channel
+      channel={
+        Object {
+          "id": 1,
+          "name": "blah",
+        }
+      }
+      key="1"
+    />
+  </ul>
+</div>
+`;
