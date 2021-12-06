@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "client",
+			"path": "../../../../GraphQL-ApolloClient-Template/client"
+		},
+		{
+			"name": "server",
+			"path": "../../../../GraphQL-ApolloClient-Template/server"
+		},
+		{
+			"name": "gql-react-client",
+			"path": "../../../../gql-react-client"
+		},
+		{
+			"name": "pdp-project-api",
+			"path": "../../../../pdp-project-api"
+		},
+		{
+			"name": "pdp-project-client",
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}
